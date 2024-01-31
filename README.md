@@ -1,2 +1,2 @@
-Subjects: Pointer, String, Functions, Recursive Function, Arrays 
+Subjects: Pointer, String, Functions, Recursive Function, Arrays ||
 Language = Turkish
